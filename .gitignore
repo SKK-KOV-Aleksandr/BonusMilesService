@@ -4,3 +4,7 @@ out/
 !**/src/test/**/out/
 .idea/
 BonusMiles.iml
+.classpath
+.project
+BonusMiles.eml
+BonusMiles.userlibraries
